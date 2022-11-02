@@ -1,6 +1,6 @@
-# Curriculum
+# Wadson R Lemos
 
-*Wadson R Lemos*
+
 
 FORMAÇÃO:
 
