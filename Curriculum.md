@@ -10,7 +10,7 @@ Sistemas de Informação<br>
 IFG - Instituto Federal de Goiás<br>
 2017 -2022</p>
 <p class="has-line-data" data-line-start="12" data-line-end="22">Experência Profissional<br>
-02/2021 –  11/2022 BR Link<br>
+11/2022 Somos Educação>
 Cargo: DevOps <br>
 Principais atividades.:<br>
 - Implantação de recursos via terraform
