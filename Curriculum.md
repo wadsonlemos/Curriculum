@@ -10,7 +10,16 @@ Sistemas de Informação<br>
 IFG - Instituto Federal de Goiás<br>
 2017 -2022</p>
 <p class="has-line-data" data-line-start="12" data-line-end="22">Experência Profissional<br>
-02/2021 –   BR Link<br>
+02/2021 –  11/2022 BR Link<br>
+Cargo: DevOps <br>
+Principais atividades.:<br>
+- Implantação de recursos via terraform
+Competências: Amazon Web Services  · AWS · Servidor Linux · Gitlab  · Terraform · Grafana ·
+  
+  
+  
+  
+02/2021 –  11/2022 BR Link<br>
 Cargo: Cloud Analyst<br>
 Principais atividades.:<br>
 • Monitoramento de alarmes através do Grafana, DataDog;<br>
