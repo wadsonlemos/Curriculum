@@ -9,12 +9,28 @@ Formação<br>
 Sistemas de Informação<br>
 IFG - Instituto Federal de Goiás<br>
 2019 -2024</p>
-<p class="has-line-data" data-line-start="12" data-line-end="22">Experência Profissional<br>
+<p class="has-line-data" data-line-start="12" data-line-end="22">
+Experência Profissional<br>
+
+07/2024 - Atualmente  UOL
+Cargo: DevOps <br>
+Principais atividades.:<br>
+Implantação de esteiras de pipeline utilizando Codefresh, otimizando o processo de entrega contínua (CI/CD) e garantindo maior eficiência no ciclo de desenvolvimento. 
+Gerenciamento de recursos em ambientes Kubernetes, realizando desde a configuração até o monitoramento e ajuste de cargas de trabalho em escala. Além disso, trabalho com GitLab, implementando soluções de versionamento e automação de tarefas.
+
+  
 11/2022 - 05/2024  Somos Educação>
 Cargo: DevOps <br>
 Principais atividades.:<br>
-- Implantação de recursos via terraform
-Competências: Amazon Web Services  · AWS · Servidor Linux · Gitlab  · Terraform · Grafana ·
+• Responsável por implementar, implantar recursos AWS via Terraform ( EC2, RDS, CloudFront, ALB, Route53, Alertas no CloudWatch, ECS , EKS, VPC, IAM , entre outros;
+• Suporte N3 a Infraestrutura;
+• Criação de Dashboards e Alertas via CloudWatch Integrado Via Slack;
+• Gestão de Base de Conhecimento;
+• Gestão de Problemas , Incidentes e Mudanças (ITIL v4) ;
+• Criação de Scripts para automação de recursos e rotinas Linux e Windows;
+• Gestão de FinOps;
+• Gerenciamento de Recursos AWS via Console;
+• Analise de Riscos no Ambiente.
   
   
   
