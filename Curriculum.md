@@ -1,16 +1,16 @@
 
   
 <h1>Wadson Lemos</h1>
-Cloud Analyst</p>
+DevOps</p>
 <p class="has-line-data" data-line-start="4" data-line-end="11">🏠 Goiânia/GO<br>
 📱 (62) 98133 - 0314<br>
 ✉️ <a href="mailto:wadsonlemos@gmail.com">wadsonlemos@gmail.com</a><br>
 Formação<br>
 Sistemas de Informação<br>
 IFG - Instituto Federal de Goiás<br>
-2017 -2022</p>
+2019 -2024</p>
 <p class="has-line-data" data-line-start="12" data-line-end="22">Experência Profissional<br>
-11/2022 Somos Educação>
+11/2022 - 05/2024  Somos Educação>
 Cargo: DevOps <br>
 Principais atividades.:<br>
 - Implantação de recursos via terraform
